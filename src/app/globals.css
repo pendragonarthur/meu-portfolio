@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.my-bg {
+  background-image: url("./components/images/Untitled.jpg");
+}
+
+.my-bg-2 {
+  background-image: url("./components/images/Untitled2.jpg");
+}
